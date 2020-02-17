@@ -7,7 +7,7 @@ Useful snippets for working on Vue.js applications in Sublime Text 3. It is a po
 Clone or download the repo, then copy the snippets into your Sublime User Packages folder. On macOS that should be something like:
 
 ```
-~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/
+~/Library/Application Support/Sublime Text 3/Packages/User/
 ```
 
 ## The Snippets
